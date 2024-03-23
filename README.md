@@ -1,2 +1,2 @@
 # testrepo
-a repo for testing knowledge aquired from A git course from Coursera
+a repo for testing knowledge acquired from A git course from Coursera
